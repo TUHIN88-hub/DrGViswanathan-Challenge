@@ -3,7 +3,7 @@
 ## Problems Solved
 
 1. Palindrome Linked List (LeetCode 234) ✅
-2. Pending ⏳
+2. Valid Perfect Square (LeetCode 367) ✅
 
 Language: Java
 
@@ -12,4 +12,6 @@ Language: Java
 - Linked Lists
 - Fast & Slow Pointers
 - In-place Reversal
+- Binary Search
+- Mathematical Computation
 - Space Optimization
