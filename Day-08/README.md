@@ -6,12 +6,24 @@
 
 **Difficulty:** Medium
 
+### Status
+
+✅ Solved
+
+---
+
+## Problem 2: Excel Sheet Column Number
+
+**LeetCode:** 171. Excel Sheet Column Number
+
+**Difficulty:** Easy
+
 ### Solution Approach
 
-* Maintain separate odd and even linked lists using pointers.
-* Traverse the list and connect odd-positioned nodes together.
-* Connect even-positioned nodes together.
-* Append the even list after the odd list.
+* Treat the column title as a Base-26 number.
+* Convert each character into its corresponding value.
+* Accumulate the result using:
+  result = result × 26 + value
 
 ### Complexity
 
@@ -20,9 +32,9 @@
 
 ### Concepts Practiced
 
-* Linked Lists
-* Pointer Manipulation
-* In-Place Rearrangement
+* Strings
+* Base Conversion
+* Mathematics
 
 ### Status
 
