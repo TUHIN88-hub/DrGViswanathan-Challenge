@@ -3,11 +3,16 @@
 ## Problems Solved
 
 1. Delete the Middle Node of a Linked List ✅
+2. Bulb Switcher ✅
 
 ### Concepts Covered
+
 - Linked Lists
-- Two Pointers
-- Fast & Slow Pointer Technique
+- Fast & Slow Pointers
+- Number Theory
+- Perfect Squares
+- Mathematical Observation
 
 ### Progress
-1 / 2 Problems Completed 🚀
+
+2 / 2 Problems Completed 🎉
