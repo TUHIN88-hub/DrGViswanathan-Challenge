@@ -3,14 +3,16 @@
 ## Problems Solved
 
 1. Remove Nth Node From End of List ✅
+2. Factorial Trailing Zeroes ✅
 
 ### Concepts Covered
 
 - Linked Lists
 - Two Pointers
-- Fast & Slow Pointer Technique
-- Dummy Node
+- Mathematical Optimization
+- Prime Factorization
+- Counting Factors
 
 ### Progress
 
-1 / 2 Problems Completed 🚀
+2 / 2 Problems Completed 🎯
