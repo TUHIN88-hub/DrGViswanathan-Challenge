@@ -5,14 +5,18 @@
 ### Dr. G. Viswanathan Challenge
 
 1. Remove Duplicates from Sorted List II (LeetCode 82)
+2. Sign of the Product of an Array (LeetCode 1822)
 
 ## Concepts Practiced
 
 - Linked Lists
 - Dummy Node Technique
-- Two Pointers
 - In-place Deletion
+- Arrays
+- Mathematical Observation
+- Sign Tracking
+- Optimization
 
 ## Progress
 
-Completed Problem 1 of Day 13.
+Completed both Dr. G. Viswanathan Challenge problems for Day 13.
