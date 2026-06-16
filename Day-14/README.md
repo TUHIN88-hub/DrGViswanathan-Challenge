@@ -1,27 +1,20 @@
-# Day 14
+# Day 14 - Dr G Viswanathan Challenge
 
-## Dr. G. Viswanathan Challenge
+## Problems Solved
 
 1. Partition List (LeetCode 86) ✅
-2. Pending
+2. Reverse Integer (LeetCode 7) ✅
 
-## Teacher's Day Challenge
-
-1. Pending
-2. Pending
-3. Pending
-
-## Concepts Practiced
+### Concepts Covered
 
 - Linked Lists
+- Two Pointers
 - Dummy Nodes
-- Pointer Manipulation
 - Stable Partitioning
+- Mathematics
+- Modulo and Division
+- Integer Overflow Handling
 
-## Progress
+### Progress
 
-Completed:
-- 1 Dr. G. Viswanathan Challenge problem
-- 0 Teacher's Day Challenge problems
-
-Total Problems Solved Today: 1/5
+2 / 2 Problems Completed 🚀
